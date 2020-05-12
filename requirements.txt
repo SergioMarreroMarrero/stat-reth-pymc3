@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+altair
+pymc3
+jupyter
